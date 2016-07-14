@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "earth.html",
+			"settings":
+			{
+				"buffer_size": 650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 650,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/tempSplashPage/site/index.html",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/tempSplashPage/site/files/scripts/main-c47b115e.css",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/tempSplashPage/site/files/scripts/analytics.js",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/tempSplashPage/site/files/scripts/vendor-8e07c5e8.js",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/tempSplashPage/site/files/scripts/sf_main.jsp",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/tempSplashPage/site/files/scripts/4dd2e46b-e5a2-4099-83c9-ac799fe88b5d.css",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/tempSplashPage/site/files/scripts/main-6c0e33f3.js",
+		"/Volumes/LOVE/backups/Documents/education/ux/web/ne-kingdom/step_01/Northeast Kingdom_files/style-step1.css",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/tempSplashPage/samples/Seeing Data - Visualising migration in england and wales_files/analytics.js",
+		"/Volumes/LOVE/backups/Documents/education/ux/web/ne-kingdom/step_11/Northeast Kingdom_files/sf_main.jsp",
+		"/Volumes/LOVE/backups/Documents/education/ux/web/ne-kingdom/step_01/Northeast Kingdom_files/sf_main.jsp",
+		"/Volumes/LOVE/backups/Documents/education/ux/web/ne-kingdom/step_01/Northeast Kingdom.html",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/files/style.css",
+		"/Volumes/LOVE/_projects/_web/courageouslyfree/index.html",
+		"/Volumes/LOVE/_projects/_web/_template/index.html",
+		"/Volumes/LOVE/backups/Documents/education/web/ne-kingdom/step_01/Northeast Kingdom_files/sf_main.jsp",
+		"/Users/reginacachuela/Desktop/(before hand - add TubeBuddy banner and link, crea",
+		"/Volumes/LOVE/backups/Documents/_web/wordpress/wp-config.php",
+		"/Volumes/LOVE/backups/Documents/_web/courageouslyFree/kalatuMigration/prettyLinks.txt",
+		"/private/etc/apache2/httpd.conf",
+		"/private/etc/php.ini.default",
+		"/Users/reginacachuela/Documents/_web/wordpress/bkp/page-template-fighter.php",
+		"/Users/reginacachuela/Documents/_web/wordpress/bkp/page-template-fighter.php.bak",
+		"/private/etc/php-fpm.conf.default",
+		"/Users/reginacachuela/Documents/_web/wordpress/wordpress 2/wp-config.php",
+		"/Users/reginacachuela/Documents/_web/wordpress/style.css",
+		"/Users/reginacachuela/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/reginacachuela/Sites/wordpress/wp-config.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"modal",
+			"blue",
+			"{",
+			";",
+			"meta",
+			"mp4",
+			".com",
+			" ,",
+			"upload",
+			"upload_max",
+			"#top-menu a",
+			"#top-menu",
+			"#top-menu a, .et_mobile_menu",
+			"color",
+			"main-content",
+			"entry-content",
+			"#main-content .container { b",
+			"main-header",
+			"content-area",
+			"main-content",
+			"element",
+			"et-main-area",
+			"main-content",
+			"vintage",
+			"get_post_text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\n;",
+			".com,",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "earth.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								650,
+								650
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webgl.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
